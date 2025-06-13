@@ -41,6 +41,5 @@
 
 ### 📌 기타
 
-- 이력서 [이력서]()
-- 자기소개서 [자기소개서]()
-- 포트폴리오 [포트폴리오]()
+- [이력서 + 자기소개서](https://drive.google.com/file/d/1pBVkITI26MwrLG0llGg6_caqk5NG_CFX/view?usp=sharing)
+- [포트폴리오](https://drive.google.com/file/d/1e6_JHKjuMGfmy6UbDAQmjg81MR0IaQs3/view?usp=sharing)
